@@ -1,5 +1,5 @@
 # **Student Performance Prediction Using ANN (Regression)**
-Using mendeley student data to implement ANN on it to preditct studentss academic performance based on features like attendance, study hours, scholarship (in total 31 columns/features)..
+Using mendeley student data to implement ANN on it to preditct studentss academic performance based on features like attendance, study hours, scholarship (in total 31 features/columns)..
 
 ## **Project Overview**
 The goal of this project is to **predict students’ final CGPA** (Cumulative Grade Point Average) based on various academic, personal, and lifestyle factors. By analyzing historical student data, the model can estimate how well a student might perform academically.
